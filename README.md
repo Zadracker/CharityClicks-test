@@ -1,7 +1,3 @@
-Certainly! Here's the mock document for pitching the CharityClicks idea to your partners:
-
----
-
 ### CharityClicks - Project Pitch
 
 **Project Name:** CharityClicks
